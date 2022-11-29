@@ -1,4 +1,3 @@
-# KISHAN_FD
 <!DOCTYPE html>
 <html>
     <head>
@@ -32,7 +31,7 @@
                 margin-bottom: 10px;
             }
             #R4{
-                height: 600px;
+                height: 500px;
                 width: 100%;
                 margin-bottom: 10px;
             }
@@ -41,7 +40,13 @@
                 margin-right: 2%;
             }
              #R4C2{
-                width: 70%;
+                width: 50%;
+                
+                }
+                #R4C3{
+                width: 18%;
+                margin-left: 2%;
+              
                 }
              #R4 div{
                 background-color: rgb(245, 14, 168);
@@ -69,6 +74,9 @@
                 </div>
                 <div id="R4C2">
                     kudarat
+                </div>
+                <div id="R4C3">
+                    ali
                 </div>
             </div>
             <div id="R5">
