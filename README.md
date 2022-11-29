@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -51,7 +53,7 @@
              #R4 div{
                 background-color: rgb(245, 14, 168);
                 float: left;
-                height: 320px;
+                height: 200px;
                 padding-top: 280px;
                 text-align: center;
              }
@@ -78,7 +80,7 @@
                 <div id="R4C3">
                     ali
                 </div>
-            </div>
+            </div>  
             <div id="R5">
                 jayshukh bhai
             </div>
